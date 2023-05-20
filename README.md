@@ -7,3 +7,5 @@ This server app get current info about criptos and their properties, created wit
 
 to use this server app first download the repository, execute the command npm install in main directory and execute npm run dev to test the program.
 
+![Image of the server running](./criptoServerApp.png)
+
